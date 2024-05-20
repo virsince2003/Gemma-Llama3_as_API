@@ -1,0 +1,8 @@
+langchain
+streamlit
+fastapi
+python-dotenv
+langchain-community
+langserve
+sse_starlette
+uvicorn[standard]==0.17.6
